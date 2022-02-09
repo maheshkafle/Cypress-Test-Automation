@@ -1,1 +1,20 @@
-{}
+{
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout": 10000,
+    "execTimeout": 60000,
+    "PageLoadTimeout": 60000,
+    "RequestTimeout": 15000,
+    "responseTimeout": 15000,
+
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir":"reports",
+        "reportFilename":"test-run-report",
+        "overwrite": true,
+        "html": true,
+        "json": true,
+        "charts": true
+    },
+
+    "video": false
+}
