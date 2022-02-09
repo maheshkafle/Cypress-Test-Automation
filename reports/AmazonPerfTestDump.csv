@@ -1,0 +1,151 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1644399816248,1017,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-3,text,true,,72455,232,13,13,https://www.amazon.com/,29,0,15
+1644399816248,29,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-3,text,true,,580,116,13,13,http://www.amazon.com/,29,0,15
+1644399816277,988,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-3,text,true,,71875,116,13,13,https://www.amazon.com/,584,0,359
+1644399816422,844,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-5,text,true,,74700,232,13,13,https://www.amazon.com/,31,0,18
+1644399816422,31,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-5,text,true,,580,116,13,13,http://www.amazon.com/,31,0,18
+1644399816454,812,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-5,text,true,,74120,116,13,13,https://www.amazon.com/,407,0,182
+1644399816343,925,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-4,text,true,,74345,232,13,13,https://www.amazon.com/,22,0,12
+1644399816343,22,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-4,text,true,,580,116,13,13,http://www.amazon.com/,22,0,12
+1644399816365,903,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-4,text,true,,73765,116,13,13,https://www.amazon.com/,506,0,271
+1644399816153,1133,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-2,text,true,,72178,232,10,10,https://www.amazon.com/,55,0,35
+1644399816153,55,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-2,text,true,,580,116,10,10,http://www.amazon.com/,55,0,35
+1644399816208,1078,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-2,text,true,,71598,116,10,10,https://www.amazon.com/,663,0,428
+1644399816037,1251,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-1,text,true,,73361,232,9,9,https://www.amazon.com/,50,0,35
+1644399816532,756,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-6,text,true,,74813,232,9,9,https://www.amazon.com/,33,0,14
+1644399816037,50,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-1,text,true,,580,116,9,9,http://www.amazon.com/,50,0,35
+1644399816532,34,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-6,text,true,,580,116,9,9,http://www.amazon.com/,33,0,14
+1644399816101,1187,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-1,text,true,,72781,116,9,9,https://www.amazon.com/,775,0,535
+1644399816566,722,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-6,text,true,,74233,116,9,9,https://www.amazon.com/,305,0,70
+1644399816634,692,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-7,text,true,,74283,232,7,7,https://www.amazon.com/,26,0,13
+1644399816634,26,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-7,text,true,,580,116,7,7,http://www.amazon.com/,26,0,13
+1644399816660,666,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-7,text,true,,73703,116,7,7,https://www.amazon.com/,275,0,53
+1644399816731,695,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-8,text,true,,74480,232,8,8,https://www.amazon.com/,30,0,15
+1644399816731,30,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-8,text,true,,580,116,8,8,http://www.amazon.com/,30,0,15
+1644399816762,664,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-8,text,true,,73900,116,8,8,https://www.amazon.com/,260,0,36
+1644399816825,700,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-9,text,true,,74239,232,8,8,https://www.amazon.com/,28,0,12
+1644399816825,28,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-9,text,true,,580,116,8,8,http://www.amazon.com/,28,0,12
+1644399816853,672,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-9,text,true,,73659,116,8,8,https://www.amazon.com/,270,0,41
+1644399817030,699,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-11,text,true,,74924,232,8,8,https://www.amazon.com/,25,0,11
+1644399817030,25,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-11,text,true,,580,116,8,8,http://www.amazon.com/,25,0,11
+1644399817055,674,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-11,text,true,,74344,116,8,8,https://www.amazon.com/,282,0,60
+1644399817236,750,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-13,text,true,,74506,232,10,10,https://www.amazon.com/,50,0,27
+1644399817236,50,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-13,text,true,,580,116,10,10,http://www.amazon.com/,50,0,27
+1644399817287,699,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-13,text,true,,73926,116,10,10,https://www.amazon.com/,300,0,55
+1644399817331,749,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-14,text,true,,76382,232,10,10,https://www.amazon.com/,59,0,10
+1644399817331,59,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-14,text,true,,580,116,10,10,http://www.amazon.com/,59,0,10
+1644399817391,689,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-14,text,true,,75802,116,10,10,https://www.amazon.com/,305,0,70
+1644399816935,1273,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-10,text,true,,74832,232,10,10,https://www.amazon.com/,37,0,19
+1644399816935,37,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-10,text,true,,580,116,10,10,http://www.amazon.com/,37,0,19
+1644399816973,1235,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-10,text,true,,74252,116,10,10,https://www.amazon.com/,843,0,37
+1644399817523,704,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-16,text,true,,72572,232,10,10,https://www.amazon.com/,39,0,21
+1644399817523,39,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-16,text,true,,580,116,10,10,http://www.amazon.com/,39,0,21
+1644399817562,665,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-16,text,true,,71992,116,10,10,https://www.amazon.com/,267,0,36
+1644399817126,1102,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-12,text,true,,74521,232,9,9,https://www.amazon.com/,29,0,16
+1644399817126,29,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-12,text,true,,580,116,9,9,http://www.amazon.com/,29,0,16
+1644399817156,1072,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-12,text,true,,73941,116,9,9,https://www.amazon.com/,681,0,58
+1644399817828,706,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-19,text,true,,71557,232,10,10,https://www.amazon.com/,24,0,14
+1644399817828,24,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-19,text,true,,580,116,10,10,http://www.amazon.com/,24,0,14
+1644399817853,681,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-19,text,true,,70977,116,10,10,https://www.amazon.com/,293,0,62
+1644399817922,731,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-20,text,true,,72990,232,11,11,https://www.amazon.com/,32,0,15
+1644399817922,32,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-20,text,true,,580,116,11,11,http://www.amazon.com/,32,0,15
+1644399817955,698,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-20,text,true,,72410,116,11,11,https://www.amazon.com/,290,0,64
+1644399817624,1074,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-17,text,true,,72887,232,10,10,https://www.amazon.com/,26,0,14
+1644399817624,26,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-17,text,true,,580,116,10,10,http://www.amazon.com/,26,0,14
+1644399817651,1047,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-17,text,true,,72307,116,10,10,https://www.amazon.com/,652,0,44
+1644399818033,728,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-21,text,true,,74799,232,10,10,https://www.amazon.com/,29,0,18
+1644399818033,29,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-21,text,true,,580,116,10,10,http://www.amazon.com/,29,0,18
+1644399818063,698,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-21,text,true,,74219,116,10,10,https://www.amazon.com/,293,0,56
+1644399818128,715,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-22,text,true,,72412,232,10,10,https://www.amazon.com/,27,0,13
+1644399818128,27,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-22,text,true,,580,116,10,10,http://www.amazon.com/,27,0,13
+1644399818156,687,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-22,text,true,,71832,116,10,10,https://www.amazon.com/,301,0,56
+1644399817426,1457,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-15,text,true,,71858,232,9,9,https://www.amazon.com/,33,0,16
+1644399817426,33,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-15,text,true,,580,116,9,9,http://www.amazon.com/,33,0,16
+1644399817460,1423,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-15,text,true,,71278,116,9,9,https://www.amazon.com/,879,0,52
+1644399818222,696,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-23,text,true,,73129,232,8,8,https://www.amazon.com/,38,0,19
+1644399818222,38,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-23,text,true,,580,116,8,8,http://www.amazon.com/,38,0,19
+1644399818261,657,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-23,text,true,,72549,116,8,8,https://www.amazon.com/,275,0,40
+1644399817733,1290,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-18,text,true,,75298,232,8,8,https://www.amazon.com/,31,0,19
+1644399817733,31,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-18,text,true,,580,116,8,8,http://www.amazon.com/,31,0,19
+1644399817765,1258,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-18,text,true,,74718,116,8,8,https://www.amazon.com/,873,0,58
+1644399818333,713,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-24,text,true,,74264,232,8,8,https://www.amazon.com/,45,0,22
+1644399818333,45,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-24,text,true,,580,116,8,8,http://www.amazon.com/,45,0,22
+1644399818379,667,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-24,text,true,,73684,116,8,8,https://www.amazon.com/,267,0,35
+1644399818539,730,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-26,text,true,,74314,232,9,9,https://www.amazon.com/,30,0,21
+1644399818539,30,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-26,text,true,,580,116,9,9,http://www.amazon.com/,30,0,21
+1644399818570,699,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-26,text,true,,73734,116,9,9,https://www.amazon.com/,308,0,74
+1644399818825,560,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-29,text,true,,72665,232,9,9,https://www.amazon.com/,49,0,21
+1644399818825,49,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-29,text,true,,580,116,9,9,http://www.amazon.com/,49,0,21
+1644399818874,511,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-29,text,true,,72085,116,9,9,https://www.amazon.com/,248,0,34
+1644399818730,706,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-28,text,true,,72403,232,9,9,https://www.amazon.com/,41,0,28
+1644399818730,41,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-28,text,true,,580,116,9,9,http://www.amazon.com/,41,0,28
+1644399818771,665,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-28,text,true,,71823,116,9,9,https://www.amazon.com/,290,0,52
+1644399819029,698,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-31,text,true,,73041,232,10,10,https://www.amazon.com/,32,0,16
+1644399819029,32,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-31,text,true,,580,116,10,10,http://www.amazon.com/,32,0,16
+1644399819062,665,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-31,text,true,,72461,116,10,10,https://www.amazon.com/,283,0,52
+1644399818427,1448,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-25,text,true,,74798,232,11,11,https://www.amazon.com/,30,0,14
+1644399818427,30,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-25,text,true,,580,116,11,11,http://www.amazon.com/,30,0,14
+1644399818458,1417,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-25,text,true,,74218,116,11,11,https://www.amazon.com/,843,0,36
+1644399819236,699,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-33,text,true,,72365,232,11,11,https://www.amazon.com/,27,0,13
+1644399819236,27,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-33,text,true,,580,116,11,11,http://www.amazon.com/,27,0,13
+1644399819265,670,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-33,text,true,,71785,116,11,11,https://www.amazon.com/,282,0,50
+1644399818635,1315,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-27,text,true,,72124,232,10,10,https://www.amazon.com/,51,0,18
+1644399818635,51,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-27,text,true,,580,116,10,10,http://www.amazon.com/,51,0,18
+1644399818687,1263,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-27,text,true,,71544,116,10,10,https://www.amazon.com/,880,0,79
+1644399819332,684,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-34,text,true,,75126,232,9,9,https://www.amazon.com/,30,0,13
+1644399819332,30,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-34,text,true,,580,116,9,9,http://www.amazon.com/,30,0,13
+1644399819363,653,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-34,text,true,,74546,116,9,9,https://www.amazon.com/,263,0,37
+1644399818935,1116,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-30,text,true,,71702,232,9,9,https://www.amazon.com/,31,0,16
+1644399818935,31,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-30,text,true,,580,116,9,9,http://www.amazon.com/,31,0,16
+1644399818967,1084,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-30,text,true,,71122,116,9,9,https://www.amazon.com/,721,0,79
+1644399819428,674,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-35,text,true,,75337,232,8,8,https://www.amazon.com/,22,0,11
+1644399819428,22,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-35,text,true,,580,116,8,8,http://www.amazon.com/,22,0,11
+1644399819451,651,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-35,text,true,,74757,116,8,8,https://www.amazon.com/,266,0,37
+1644399819635,745,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-37,text,true,,74268,232,10,10,https://www.amazon.com/,53,0,15
+1644399819635,53,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-37,text,true,,580,116,10,10,http://www.amazon.com/,53,0,15
+1644399819688,692,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-37,text,true,,73688,116,10,10,https://www.amazon.com/,299,0,63
+1644399819125,1287,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-32,text,true,,72447,232,9,9,https://www.amazon.com/,32,0,21
+1644399819125,32,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-32,text,true,,580,116,9,9,http://www.amazon.com/,32,0,21
+1644399819158,1254,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-32,text,true,,71867,116,9,9,https://www.amazon.com/,866,0,38
+1644399819730,699,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-38,text,true,,74319,232,9,9,https://www.amazon.com/,31,0,14
+1644399819730,31,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-38,text,true,,580,116,9,9,http://www.amazon.com/,31,0,14
+1644399819762,667,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-38,text,true,,73739,116,9,9,https://www.amazon.com/,268,0,40
+1644399819935,710,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-40,text,true,,72761,232,10,10,https://www.amazon.com/,26,0,13
+1644399819935,26,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-40,text,true,,580,116,10,10,http://www.amazon.com/,26,0,13
+1644399819961,684,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-40,text,true,,72181,116,10,10,https://www.amazon.com/,285,0,52
+1644399819522,1325,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-36,text,true,,75069,232,11,11,https://www.amazon.com/,31,0,14
+1644399819522,31,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-36,text,true,,580,116,11,11,http://www.amazon.com/,31,0,14
+1644399819554,1293,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-36,text,true,,74489,116,11,11,https://www.amazon.com/,714,0,80
+1644399820221,671,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-43,text,true,,74900,232,10,10,https://www.amazon.com/,28,0,17
+1644399820221,28,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-43,text,true,,580,116,10,10,http://www.amazon.com/,28,0,17
+1644399820249,643,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-43,text,true,,74320,116,10,10,https://www.amazon.com/,273,0,48
+1644399820122,886,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-42,text,true,,74779,232,10,10,https://www.amazon.com/,44,0,21
+1644399820122,44,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-42,text,true,,580,116,10,10,http://www.amazon.com/,44,0,21
+1644399820166,842,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-42,text,true,,74199,116,10,10,https://www.amazon.com/,264,0,37
+1644399819824,1272,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-39,text,true,,72314,232,9,9,https://www.amazon.com/,23,0,12
+1644399819824,23,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-39,text,true,,580,116,9,9,http://www.amazon.com/,23,0,12
+1644399819848,1248,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-39,text,true,,71734,116,9,9,https://www.amazon.com/,862,0,37
+1644399820521,679,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-46,text,true,,74290,232,8,8,https://www.amazon.com/,28,0,15
+1644399820521,28,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-46,text,true,,580,116,8,8,http://www.amazon.com/,28,0,15
+1644399820549,651,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-46,text,true,,73710,116,8,8,https://www.amazon.com/,253,0,29
+1644399820024,1252,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-41,text,true,,74104,232,7,7,https://www.amazon.com/,21,0,12
+1644399820024,21,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-41,text,true,,580,116,7,7,http://www.amazon.com/,21,0,12
+1644399820046,1230,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-41,text,true,,73524,116,7,7,https://www.amazon.com/,845,0,37
+1644399820722,674,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-48,text,true,,70490,232,6,6,https://www.amazon.com/,23,0,13
+1644399820722,23,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-48,text,true,,580,116,6,6,http://www.amazon.com/,23,0,13
+1644399820746,650,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-48,text,true,,69910,116,6,6,https://www.amazon.com/,262,0,36
+1644399820421,991,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-45,text,true,,75168,232,5,5,https://www.amazon.com/,26,0,14
+1644399820421,26,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-45,text,true,,580,116,5,5,http://www.amazon.com/,26,0,14
+1644399820447,965,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-45,text,true,,74588,116,5,5,https://www.amazon.com/,343,0,86
+1644399820821,701,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-49,text,true,,74351,232,4,4,https://www.amazon.com/,28,0,10
+1644399820821,28,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-49,text,true,,580,116,4,4,http://www.amazon.com/,28,0,10
+1644399820850,672,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-49,text,true,,73771,116,4,4,https://www.amazon.com/,268,0,40
+1644399820322,1280,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-44,text,true,,72546,232,3,3,https://www.amazon.com/,24,0,11
+1644399820322,24,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-44,text,true,,580,116,3,3,http://www.amazon.com/,24,0,11
+1644399820346,1256,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-44,text,true,,71966,116,3,3,https://www.amazon.com/,865,0,49
+1644399820621,1526,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-47,text,true,,74423,232,2,2,https://www.amazon.com/,29,0,15
+1644399820621,29,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-47,text,true,,580,116,2,2,http://www.amazon.com/,29,0,15
+1644399820651,1496,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-47,text,true,,73843,116,2,2,https://www.amazon.com/,854,0,43
+1644399820921,1272,HTTP Request,200,OK,AmazonPerfTest - Thread Groups 1-50,text,true,,75108,232,1,1,https://www.amazon.com/,27,0,14
+1644399820921,27,HTTP Request-0,301,Moved Permanently,AmazonPerfTest - Thread Groups 1-50,text,true,,580,116,1,1,http://www.amazon.com/,27,0,14
+1644399820949,1244,HTTP Request-1,200,OK,AmazonPerfTest - Thread Groups 1-50,text,true,,74528,116,1,1,https://www.amazon.com/,852,0,43
