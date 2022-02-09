@@ -4,6 +4,8 @@ Use the below command to run the test ->
 Open your git-bash and type in given command
 node_modules/.bin/cypress run --spec cypress/integration/Tests/*.js --browser chrome
 
+To Run the Performance Test Import AmazonPerformanceTestPlan.jmx file in Jmeter and Run it.
+
 Running above command will run all the test cases inside cypress/integration/Tests folder and save the reports in report folder.
 Mochawesome is used for generating the reports (test-run-report.html is the final report)
 Chrome is used for running test
