@@ -11,7 +11,6 @@ Chrome is used for running test
 Test Summary and Test Execution Report has been added in the project.
 
 Design Pattern for the project is Page Object Model. PageLayer/Object Reportoire class and TestLayer classes are separated.
-Build done on Jenkins passing the git url in source git.
 
 Test cases automated as part of Web Automation using Cypress are listed below.
 
