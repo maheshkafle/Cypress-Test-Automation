@@ -2,7 +2,7 @@
 
 Use the below command to run the test ->
 Open your git-bash and type in given command
-node_modules/.bin/cypress run --spec cypress/integration/Tests/*.js --browser chrome
+node_modules/.bin/cypress run --headed --spec cypress/integration/Tests/*.js --browser chrome
 
 To Run the Performance Test Import AmazonPerformanceTestPlan.jmx file in Jmeter and Run it.
 
